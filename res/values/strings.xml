@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">kln</string>
+    <string name="dummy_button">--&gt; click me &lt;--</string>
+    <string name="dummy_content">click\n&amp;\nbehold\nthe magic!!</string>
+
+</resources>
